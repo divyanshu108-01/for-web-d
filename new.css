@@ -1,0 +1,21 @@
+.na{
+    display: flex;
+    justify-content: space-around;
+    background-color:blanchedalmond;
+}
+body{
+    background-image:url(my.jpeg);
+}
+.my
+{
+    display: flex;
+
+}
+.r{
+    color:red;
+    background-color: black;
+    width: 50%;
+}
+#name{
+    width: 50%;
+}
